@@ -8,7 +8,7 @@ I'm an **AI Engineering undergraduate at New Ismailia National University**, int
 
 My goal is to build reliable, useful AI systems that solve real problems.
 
-[GitHub](https://github.com/solimanmohamed7177-arch) · [LinkedIn](https://www.linkedin.com/)
+[GitHub](https://github.com/solimanmohamed7177-arch) · [LinkedIn](https://www.linkedin.com/in/solimanmohamedeng/en)
 
 ---
 
